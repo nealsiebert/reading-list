@@ -1,5 +1,5 @@
 |Title|Author|Category|
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------- |
+|-|-|-|
 | Measure What Matters:                                                                                                                     | John Doerr                                                        | Product Development |
 | User Story Mapping: Discover the Whole Story, Build the Right Product                                                                     | Jeff Patton, Peter Economy                                        | Product Development |
 | The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback                                       | Dan Olsen                                                         | Product Development |
