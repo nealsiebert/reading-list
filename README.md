@@ -72,3 +72,4 @@
 | Good Strategy Bad Strategy: The Difference and Why It Matters                                                                             | Richard Rumelt                                                    | Soft Skills         |
 | Tidy First?: A Personal Exercise in Empirical Software Design                                                                             | Kent Beck                                                         | Programming         |
 | Agile Retrospectives: Making Good Teams Great                                                                                             | Esther Derby, Diana Larsen                                        | Soft Skills         |
+| Managing Technical Debt: Reducing Friction in Software Development |  Philippe Kruchten, Robert Nord, Ipek Ozkaya | Programming |
