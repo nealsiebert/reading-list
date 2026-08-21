@@ -73,3 +73,4 @@
 |Agile Retrospectives: Making Good Teams Great| Esther Derby, Diana Larsen|Soft Skills|
 |Managing Technical Debt: Reducing Friction in Software Development|Philippe Kruchten, Robert Nord, Ipek Ozkaya|Programming|
 |REST in Practice: Hypermedia and Systems Architecture|Jim Webber, Savas Parastatidis, Ian Robinson|Software Design|
+|Observability Engineering, 2nd Edition|Charity Majors, Liz Fong-Jones, George Miranda, Austin Parker|Software Design|
